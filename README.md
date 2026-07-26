@@ -1,4 +1,4 @@
 # demo
 this is my git repository. 
 <br>
-Author - Anal Sinha
+Author - Anal bizzle
